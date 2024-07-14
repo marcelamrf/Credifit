@@ -13,4 +13,4 @@ Este é um projeto desenvolvido para o desafio técnico da Credifit, o objetivo 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/marcelamrf/Credifit.git
