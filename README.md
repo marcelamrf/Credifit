@@ -18,3 +18,8 @@ Este é um projeto desenvolvido para o desafio técnico da Credifit, o objetivo 
 2. Execute os testes:
    
    npx cypress open
+
+
+   ## Vídeo de Apresentação
+
+   
