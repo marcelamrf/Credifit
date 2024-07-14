@@ -2,8 +2,8 @@ Caderno de teste
 
 Teste 1: Parceria entre empresa e Credifit
 
-● Dado que a empresa estabelece uma parceria com a credifit
-● Quando todo o formulário é assinado e enviado para a credifit
+- Dado que a empresa estabelece uma parceria com a credifit
+- Quando todo o formulário é assinado e enviado para a credifit
 ● Então o sistema envia uma solicitação para a confirmação 
 ● Resultado Esperado: É estabelecido o beneficio de empréstimo consignado para os funcionários e a solicitação fica registrada no sistema da credifit.
 
