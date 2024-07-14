@@ -13,8 +13,8 @@ Este é um projeto desenvolvido para o desafio técnico da Credifit, o objetivo 
 
 1. Clone o repositório:
    
-   git clone https://github.com/marcelamrf/Credifit.git
+   `git clone` https://github.com/marcelamrf/Credifit.git
 
-3. Execute os testes:
+2. Execute os testes:
    
    npx cypress open
