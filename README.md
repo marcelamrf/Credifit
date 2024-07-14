@@ -22,4 +22,4 @@ Este é um projeto desenvolvido para o desafio técnico da Credifit, o objetivo 
 
    ## Vídeo de Apresentação
 
-   
+   https://www.dropbox.com/scl/fi/itxkbej91pmd9orjop1od/credifit.mp4.mp4?rlkey=6bhaahfsd8x921vfpzivncb9q&st=j6g2i5yy&dl=0
